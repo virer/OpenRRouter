@@ -4,7 +4,7 @@ The router part of OpenRViewer: A java base application using RFB protocol(VNC) 
 Goal: doing remote computer access inside and outside a company passing through Firewalls and routers without problem
 
 
-[Remote Computer]--->[FW]--->{Internet}<---[FW]<---[Manager]
+[Remote Computer]--->[FW]--->{Internet}<---[FW]<---[Manager] __
  [OpenRRouter]--------------------^
 
 ### License
